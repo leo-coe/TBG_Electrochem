@@ -1,0 +1,1 @@
+variable phi lambda -0.4
